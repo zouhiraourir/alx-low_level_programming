@@ -7,11 +7,11 @@ int main()
     char d ;
     float e ;
     
-    printf("size of char is : %d bytes\n",sizeof(d)) ;
-    printf("size of int is : %d bytes\n",sizeof(a)) ;
-    printf("size of long int is : %d bytes\n",sizeof(b)) ;
-    printf("size of long long int is : %d bytes\n",sizeof(c)) ;
-    printf("size of float is : %d bytes\n",sizeof(e)) ;
+    printf("Size of a char is : %d bytes\n",sizeof(d)) ;
+    printf("Size of an int is : %d bytes\n",sizeof(a)) ;
+    printf("Size of a long int is : %d bytes\n",sizeof(b)) ;
+    printf("Size of a long long int is : %d bytes\n",sizeof(c)) ;
+    printf("Size of a float is : %d bytes\n",sizeof(e)) ;
     
     return(0) ;
 }
