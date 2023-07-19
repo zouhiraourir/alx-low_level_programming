@@ -1,1 +1,2 @@
-this file is for nested lopps and funtions 
+s is a file for nested loops and functions
+
