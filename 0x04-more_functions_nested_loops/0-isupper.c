@@ -1,17 +1,13 @@
-#include "main.h"
-#include <ctype.c>
-/**
- * _isupper - uppercase letters
- * @c: character to check
- *
- * Return: 0 or 1
- */
-int _isupper(int c)
+include "main.h"
+include <ctype.h>
 
+int main ()
+	char ch ;
+	if(isupper(ch))
 {
-	if (c >= '65' && c <= '90')
-		return (1);
+	return(1);
+}
 	else
-		return (0);
-
+{
+	return(0);
 }
