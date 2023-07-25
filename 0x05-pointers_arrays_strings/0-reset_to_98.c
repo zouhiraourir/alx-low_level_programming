@@ -8,7 +8,7 @@ int main (void){
 	int *n ;
 	*n=&n;
 	
-		printf(n=%d \n,n);
+		_putchar(n=%d \n,n);
 	
 	return(0);
 }
